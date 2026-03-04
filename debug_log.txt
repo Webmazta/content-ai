@@ -1,0 +1,22 @@
+Instagram Video Download Debug Test
+URL: https://www.instagram.com/reels/DUg2BxAjbO_/
+Shortcode: DUg2BxAjbO_
+
+==================================================
+METHOD 1: Direct Instagram API with Login
+==================================================
+Getting login page...
+Login page status: 200
+CSRF from cookies: True
+Posting login for workpcbestshowbiz...
+Login status: 200
+Login body: {"user":true,"userId":"50277974265","authenticated":true,"oneTapPrompt":true,"status":"ok"}
+Authenticated: True
+Fetching: https://www.instagram.com/p/DUg2BxAjbO_/?__a=1&__d=dis
+API status: 404
+Trying embed: https://www.instagram.com/reel/DUg2BxAjbO_/embed/
+Embed status: 200
+No video_url in embed page
+FAILED: No video URL found from any method
+
+Done. Check debug_log.txt for full output.

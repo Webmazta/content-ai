@@ -1,0 +1,11 @@
+Login: True
+
+--- Testing /reel/ endpoint ---
+Status: 404
+Content-Type: text/html; charset=utf-8
+
+--- Testing i.instagram.com API ---
+Status: 400
+Response: {"message":"Invalid media_id DUg2BxAjbO_","status":"fail"}
+
+Done.

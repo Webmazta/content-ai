@@ -1,0 +1,20 @@
+# Sample URLs file — one Instagram Reel URL per line
+# Lines starting with # are ignored
+
+https://www.instagram.com/reels/DUrMClrCAeh/
+https://www.instagram.com/reels/DUomXjGjO-K/
+https://www.instagram.com/reels/DTypXffjhJa/
+https://www.instagram.com/reels/DRfscWqDFug/
+https://www.instagram.com/reels/DUipMJTDbOM/
+https://www.instagram.com/reels/DUn2ZypCEaM/
+https://www.instagram.com/reels/DUOtJDajQwu/
+https://www.instagram.com/reels/DR0-lq5EePs/
+https://www.instagram.com/reels/DNlJX1lMnuM/
+https://www.instagram.com/reels/DUZc0WKj7q2/
+https://www.instagram.com/p/DUAYv48jEP6/
+https://www.instagram.com/p/DUqvK43jYx3/
+
+# Example:
+# https://www.instagram.com/reel/ABC123/
+# https://www.instagram.com/reel/DEF456/
+#run this command python main.py --file urls.txt
