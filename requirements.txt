@@ -1,0 +1,9 @@
+flask
+python-dotenv
+feedparser
+google-generativeai
+requests
+beautifulsoup4
+Pillow
+opencv-python-headless
+yt-dlp
